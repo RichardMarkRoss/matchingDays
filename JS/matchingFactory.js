@@ -7,7 +7,15 @@ function sameWeekday(day1, day2) {
    
     var dateIn1 = date1.getDay();
     var dateIn2 = date2.getDay();
-   
-    return dateIn1 == dateIn2;
+
+    if(dateIn1 > dateIn2){
+
+    }else if(dateIn1 > dateIn2){
+
+    }else if(dateIn1 == dateIn2){
+
+    }else{
+
+    }
 
 }

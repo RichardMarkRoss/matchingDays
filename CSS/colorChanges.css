@@ -1,9 +1,11 @@
-dayTwoColor{
+.dayTwoColor {
     background-color: blueviolet
 }
-dayOneColor{
+
+.dayOneColor {
     background-color: blue
 }
-correct{
+
+.correct {
     background-color: green
 }
